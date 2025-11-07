@@ -7,8 +7,6 @@
 I’m **Jabbar Ali Panggabean**, a full-stack engineer building systems that *work*, *scale*, and *deliver with quiet confidence*.
 I favour clarity, reliability, and technology that actually delivers.
 
-<br>
-
 ## About Me
 
 * **Focus**: Full-stack · DevOps · AI/IoT
@@ -20,8 +18,6 @@ I favour clarity, reliability, and technology that actually delivers.
 <img src="https://skillicons.dev/icons?i=ts,react,nextjs,golang,python,aws,docker,unity,vite&perline=10" alt="Tech Icons"/>
 
 <img src="https://github-readme-activity-graph.vercel.app/graph?username=jabbar-app&bg_color=0d1117&color=58a6ff&line=58a6ff&point=ffffff&area=true&hide_border=true" alt="Activity Graph"/>
-
-<br>
 
 ## Links
 

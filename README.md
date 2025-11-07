@@ -30,6 +30,6 @@ I favour clarity, reliability, and technology that actually delivers.
 ---
 
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:2b5876,100:4e4376&height=120&section=footer&text=ありがとうございます！&fontAlign=50&fontAlignY=75&fontColor=ffffff" alt="footer"/>
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:2b5876,100:4e4376&height=120&section=footer&text=よろしくお願いします！&fontAlign=50&fontAlignY=75&fontColor=ffffff" alt="footer"/>
 </p>
 

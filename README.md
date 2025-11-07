@@ -1,5 +1,5 @@
 <p align="center">
-<img src="https://link.jabbar.id/cover.webp" alt="Cover Image"/>
+<img src="https://link.jabbar.id/cover.jpg" alt="Cover Image"/>
 </p>
 
 # Hi there, ジャッバルと申します 👋
